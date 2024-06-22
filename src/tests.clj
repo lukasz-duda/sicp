@@ -1,5 +1,5 @@
 (ns tests
   (:require [clojure.test :refer [run-tests]]
-            [squaretest]))
+            [square-test]))
 
 (run-tests 'squaretest)
