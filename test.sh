@@ -1,1 +1,1 @@
-clj -M src/tests.sh
+clj -M src/tests.clj

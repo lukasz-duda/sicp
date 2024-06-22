@@ -2,4 +2,4 @@
   (:require [clojure.test :refer [run-tests]]
             [square-test]))
 
-(run-tests 'squaretest)
+(run-tests 'square-test)
